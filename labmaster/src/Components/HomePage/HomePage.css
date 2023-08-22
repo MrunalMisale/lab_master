@@ -1,0 +1,28 @@
+.fa {
+    padding: 7px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 10px;
+    border-radius: 18px
+  }
+  
+  .fa:hover {
+      opacity: 0.8;
+  }
+  
+  .fa-github {
+    background: black;
+    color: white;
+  }
+  
+  .fa-whatsapp {
+    background: #25D366;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
